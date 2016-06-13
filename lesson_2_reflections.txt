@@ -1,0 +1,14 @@
+
+What happens when you initialise a repository? Why do you need to do it?
+	
+	Git sets the current directory with a .git dir ready to be tracked.  This needs to be done
+	if you want to version control and track changes to this directory
+
+How is the staging area different from the working directory and repository? 
+What value do you think it offers?
+
+
+	Staging area is a temporary storage before a commit, collating files which
+	you will ultimately want to commit in a new version.  Working directory is just the 
+	directory you are currently working in and the repository is the collection
+	of files which are linked in commits.
