@@ -12,3 +12,8 @@ What value do you think it offers?
 	you will ultimately want to commit in a new version.  Working directory is just the 
 	directory you are currently working in and the repository is the collection
 	of files which are linked in commits.
+
+How can you use to staging area to make sure you have one commit per logical change?
+
+	You can work changes to the files concerned, then one by one add to the staging
+	area, then before you commit you can see the logical changes made to the files.
