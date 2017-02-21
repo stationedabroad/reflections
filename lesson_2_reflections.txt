@@ -17,3 +17,12 @@ How can you use to staging area to make sure you have one commit per logical cha
 
 	You can work changes to the files concerned, then one by one add to the staging
 	area, then before you commit you can see the logical changes made to the files.
+
+What are some situations when branches would be helpful in keeping your history organised?
+How would branches help?
+
+	Branches can help in creating a different track of your app, for eg in a PoC
+	or trialling some new functionality which may not make it into the final app.
+	Branches allow you to take the current commit history and branch off, leaving any changes
+	in the other branches how they are, and allowing you to update your branch without
+	hinderence.
