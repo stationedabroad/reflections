@@ -32,3 +32,9 @@ How do diagram help you to visualise the branch structure?
        Diagrams can help you see clearly which history of commits are related to which branch
        and understand which commits have the potential to be stand alone (incase you checkout
        another main branch you will lose this commit).
+
+What is the result of merging two brances together? Why do we represent it inthe diagram the way we do?
+
+     Merging results in the merging of two commits, using the parent information of each commit, git
+     can work out a way to merge (as long as there are no conflicts).  The diagram helps to visualise the
+     different branches and their paths meaning their dependencies in terms of parents
